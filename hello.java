@@ -6,4 +6,7 @@ void
 main
 aaaa
 bbbb
+fff
+eee
+g
 }
