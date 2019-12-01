@@ -4,4 +4,6 @@ publi
 static
 void
 main
+aaaa
+bbbb
 }
