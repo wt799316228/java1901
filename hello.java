@@ -3,4 +3,5 @@ public class hello{
 publi
 static
 void
+main
 }
